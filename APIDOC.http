@@ -1,0 +1,21 @@
+#api call for helloworld
+###
+GET http://127.0.0.1:8000/helloworld/
+
+#api call for goodmorning
+###
+GET http://127.0.0.1:8000/morning/
+
+
+#api call for good afternoon
+###
+GET http://127.0.0.1:8000/evening/
+
+#api call for good evening
+###
+GET http://127.0.0.1:8000/afternoon/
+
+
+#api call for good night
+###
+GET http://127.0.0.1:8000/night/
